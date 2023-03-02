@@ -1,2 +1,1 @@
-# Prep-Course-Arek
-Este es un repositorio del modulo 2 del Prepcourse
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde git hub a mi disco local
